@@ -1,0 +1,12 @@
+{
+  "context": {
+    "port": "PORT"
+  },
+  "db": {
+    "connection_uri": "DB_URI"
+  },
+  "fixer": {
+    "access_key": "FIXER_ACCESS_KEY",
+    "timeout": "FIXER_TIMEOUT"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "context": {
+    "port": "3000",
+    "environment": "staging"
+  },
+  "db": {
+    "connection_uri": ""
+  },
+  "fixer": {
+    "base_url": "http://data.fixer.io/api",
+    "access_key": "",
+    "timeout": 30000
+  },
+  "crypto": {
+    "private_key": "7fad08899d31e231b40e5ecf0c4736c34dfc5101204e5e6e401d236ea2504a25"
+  }
+}
